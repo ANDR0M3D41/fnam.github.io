@@ -1,8 +1,13 @@
+body{
+	background: linear-gradient(to bottom, #9F3E32, #000002);
+}
+
 .nav-h ul{
 	list-style-type: none;
 	text: center;
 	border: 1px solid black;
 	padding: 20px;
+	background: #78190E;
 }
 
 .nav-h ul li{
@@ -13,4 +18,10 @@
 .articulo {
 	border: 2px solid black;
 	margin-bottom: 10px;
+	background: #36233F;
+}
+
+footer{
+	text-align:center;
+	background: #E09955;
 }
