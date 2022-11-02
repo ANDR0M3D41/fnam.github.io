@@ -9,3 +9,8 @@
 	display: inline;
 	margin: 0 10px 0 0;
 }
+
+.articulo {
+	border: 2px solid black;
+	margin-bottom: 10px;
+}
