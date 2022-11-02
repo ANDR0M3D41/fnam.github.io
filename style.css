@@ -1,0 +1,11 @@
+.nav-h ul{
+	list-style-type: none;
+	text: center;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.nav-h ul li{
+	display: inline;
+	margin: 0 10px 0 0;
+}
